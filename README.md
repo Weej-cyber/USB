@@ -1,2 +1,1 @@
-# USB
-USB - User Story Builder for collaborative AI development
+# USB - User Story Builder A collaborative AI tool for Product Owners and Agile teams. Built from real sprint experience running AI as a development team. **[Try USB Live](https://[your-username].github.io/usb/)** ## What It Does - Guides you through proper user story creation - Works with AI to generate acceptance criteria - Follows Agile best practices - Privacy-first (no login, local storage only) ## Why I Built This...Vibecoding tools generate code fast, but without domain knowledge they create garbage. USB brings Product Owner experience to AI collaboration. Built by a Product Owner who actually ran sprints this way.
